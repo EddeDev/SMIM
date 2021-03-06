@@ -1,4 +1,4 @@
-# Scrap Mechanic Image Maker
+# Scrap Mechanic Image Maker [![License](https://img.shields.io/github/license/EddeDev/SMIM.svg)](https://github.com/EddeDev/SMIM/blob/main/LICENSE)
 
 ## How to use:
 
