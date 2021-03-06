@@ -7,5 +7,5 @@
   Blueprint blueprint = SMIM.createBlueprint(imageFile);
   blueprint.export(ExportFormat.JSON, File.create("Blueprint.json"));
 ```
-## External libraries:
-  JSON-Simple
+### External libraries:
+- JSON-Simple
