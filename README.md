@@ -1,5 +1,4 @@
-# SMIM
-Scrap Mechanic Image Maker
+# Scrap Mechanic Image Maker
 
 How to use:
 
